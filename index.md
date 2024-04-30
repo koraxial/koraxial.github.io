@@ -9,7 +9,7 @@ I have a <a href="https://www.youtube.com/@_korax_">YouTube Channel</a> where I 
 
 ## About this Website
 This website is a general landing page where you can find my projects as well as tutorials and other write-ups. Currently this site is a W.I.P. so there aren't much things here. 
-However in the mean time, you can keep an eye on the <a href="/posts/index.html">Posts section</a> or check existing stuff on my <a href="https://github.com/koraxial">GitHub</a>. 
+However in the mean time, you can keep an eye on the <a href="/categories/">Posts section</a> or check existing stuff on my <a href="https://github.com/koraxial">GitHub</a>. 
 
 ## Support
 As of now, all my socials are linked here, if you want to show your support you can watch some videos on my channel or check my repositories. 
