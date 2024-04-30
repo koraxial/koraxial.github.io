@@ -12,7 +12,7 @@ keywords: ['seo', 'key', 'words']
 # Analytics (Plausible requires sign-up)
 analytics:
   plausible:
-    enabled: false
+    enabled: true
     site_fqdn: 'your.site.fqdn'
     script_source: 'https://plausible.io/js/script.js'
 
