@@ -1,3 +1,5 @@
+- name: Home
+  link: https://koraxial.github.io/
 - name: All Posts
   link: /posts/
 - name: Contact (DC)
