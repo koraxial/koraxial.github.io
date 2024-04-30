@@ -1,10 +1,10 @@
 # Site Specific Configuration
-name: korax
-description: website for my shenanigans
+name: korax's Website
+description: Website for my shenanigans
 url: koraxial.github.io
 author: korax
 timezone: Asia/Kolkata
-timezone_short: IN
+timezone_short: IST
 
 # Keywords
 keywords: ['seo', 'key', 'words']
