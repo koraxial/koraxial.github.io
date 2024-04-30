@@ -16,5 +16,5 @@ As of now, all my socials are linked here, if you want to show your support you 
 Just a few kind words are enough for me.
 
 <p align="center">
-<iframe src="https://giphy.com/embed/JRUtn0sCuAn0bzfc4C" width="480" height="477" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/crayon-shinchan-shin-chan-JRUtn0sCuAn0bzfc4C">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/JRUtn0sCuAn0bzfc4C" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </p>
