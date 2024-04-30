@@ -1,6 +1,9 @@
-- name: Channel
-  link: https://www.youtube.com/@_korax_
-- name: Categories
-  link: /categories/
-- name: Contact (Discord)
+- name: All Posts
+  link: /posts/
+- name: Contact (DC)
   link: https://discord.gg/BtwGQVBBv7
+- name: YouTube
+  link: https://www.youtube.com/@_korax_
+- name: GitHub
+  link: https://github.com/koraxial
+
