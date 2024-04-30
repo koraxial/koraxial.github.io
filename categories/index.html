@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Sorted Posts
+title: Posts
 ---
 
-<h2>Sorted Posts</h2>
+<h2>Posts</h2>
 {% for category in site.categories %}
     <h3 class="category-header"><b>{{category | first}}</b></h3>
         {% for post in category[1] limit:5 %}
