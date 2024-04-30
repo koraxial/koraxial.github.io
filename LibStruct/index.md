@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+author:  
 title: LibStruct
 ---
 
