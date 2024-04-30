@@ -1,8 +1,8 @@
 # Site Specific Configuration
 name: korax
-description: "korax's website"
+description: website for my shenanigans
 url: koraxial.github.io
-author: tajacks
+author: korax
 timezone: Asia/Kolkata
 timezone_short: IN
 
