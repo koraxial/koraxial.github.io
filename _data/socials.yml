@@ -1,6 +1,9 @@
-- name: Contact (DC)
+- name: Contact 
+  descripton: Link for my Discord server. This is whre I'm active the most so it's a good place to reach me
   link: https://discord.gg/BtwGQVBBv7
 - name: YouTube
+  descripton: My YouTube Channel where I upload reguarly (I try to ;D) 
   link: https://www.youtube.com/@_korax_
 - name: GitHub
+  description: GitHub Profile where all my projects are
   link: https://github.com/koraxial
