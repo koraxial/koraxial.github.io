@@ -5,9 +5,9 @@ title: Projects
 
 <h2>Projects</h2>
 {% for item in site.data.projects %}
-     <h4><p>{{ item.target }}</p></h4>
-     <div class="project">
      <h3><span class="project-item">{{ item.name }} <a href="{{ item.link }}" target="_blank">&gt;&gt;</a></span></h3>
+     <div class="project">
+     <h4><p>{{ item.target }}</p></h4>
      <p>{{ item.description }}</p>
      <br>
 {% endfor %}
