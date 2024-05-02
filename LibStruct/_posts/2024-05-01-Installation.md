@@ -26,14 +26,14 @@ Linux, Windows (XP or higher 64-bit Windows), MacOS, Mac OS X, FreeBSD, NetBSD, 
 ## Steps to install LibStruct/LibStruct-GUI
 1. Install latest version of Python from [Python's Website](https://www.python.org/downloads/)
 2. Install Pygame (Not required for [CLI version](https://github.com/koraxial/LibStruct/LibStruct_cli.py)):
-   > 1) Open Python install directory </br>
-   > 2) Open Command Prompt in folder </br>
-   > 3) Run 'python -m pip install pygame'
+   - 1) Open Python install directory 
+   - 2) Open Command Prompt in folder 
+   - 3) Run 'python -m pip install pygame'
 3. Install MySQL from [MySQL's Page](https://dev.mysql.com/downloads/installer/#:~:text=MySQL%20Installer%208.0.35,final%20series%20with%20MySQL%20Installer.)
 4. Install mysql-connector-python:
-   > 1) Open Python install directory </br>
-   > 2) Open Command Prompt in folder </br>
-   > 3) Run 'python -m pip install mysql-connector-python'
+   - 1) Open Python install directory 
+   - 2) Open Command Prompt in folder
+   - 3) Run 'python -m pip install mysql-connector-python'
 5. Download the latest release package from [GitHub](https://github.com/koraxial/LibStruct/releases)
 6. Run [LibStruct_SQLdepCreate.py](https://github.com/koraxial/LibStruct/LibStruct_SQLdepCreate.py)
 7. Run [LibStruct_main.py](https://github.com/koraxial/LibStruct/LibStruct-GUI/LibStruct_main.py)
@@ -46,9 +46,9 @@ Linux, Windows (XP or higher 64-bit Windows), MacOS, Mac OS X, FreeBSD, NetBSD, 
 ## Troubleshooting: 
 In case of any errors or compatibility issues try the following:
 
-1) Reinstall Python or Pygame or MySQL, or try different versions. </br>
-2) Check MySQL table structure. </br>
-3) Check connectivity of program with database.
+1. Reinstall Python or Pygame or MySQL, or try different versions.
+2. Check MySQL table structure. 
+3. Check connectivity of program with database.
 
 <a href="https://koraxial.github.io/libstruct/2024/05/01/About.html"><-- About & Features</a>
 <h2 align="center">..........</h2>
