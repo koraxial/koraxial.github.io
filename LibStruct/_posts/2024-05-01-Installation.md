@@ -39,7 +39,7 @@ Linux, Windows (XP or higher 64-bit Windows), MacOS, Mac OS X, FreeBSD, NetBSD, 
 7. Run [LibStruct_main.py](https://github.com/koraxial/LibStruct/LibStruct-GUI/LibStruct_main.py)
 
 <div class="note">
-  <p><strong>**Note:**</strong>Replace the '########' in 'LibStruct_SQLdepCreate.py', 'LibStruct_main.py' and 'LibStruct_cli.py' before running the program. </p>
+  <p><strong>Note:</strong>Replace the '########' in 'LibStruct_SQLdepCreate.py', 'LibStruct_main.py' and 'LibStruct_cli.py' before running the program. </p>
 </div> 
    
 
