@@ -34,7 +34,7 @@ autopages:
   enabled: true
   categories:
     title: 'Posts in category :cat'
-    permalink: '/posts/:cat'
+    permalink: '/grouped/:cat'
     silent: false
 
 # Exclusions
