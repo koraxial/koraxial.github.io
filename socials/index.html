@@ -1,6 +1,11 @@
-{% include socials.html %}
-<socials>
-    {% for item in site.data.socials %}
-    | <a href="{{ item.link }}">{{ item.name }}</a>
-    {% endfor %}
-</socials>
+---
+layout: default
+title: Socials
+---
+
+<h2>Socials</h2>
+{% for item in site.data.socials %}
+    <span class="project-item">{{ item.name }} <a href="{{ item.link }}" target="_blank">&gt;&gt;</a></span>
+    <p>{{ item.description }}</p>
+    <br>
+{% endfor %}
