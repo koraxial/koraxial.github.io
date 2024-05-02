@@ -1,0 +1,6 @@
+{% include socials.html %}
+<socials>
+    {% for item in site.data.socials %}
+    | <a href="{{ item.link }}">{{ item.name }}</a>
+    {% endfor %}
+</socials>
