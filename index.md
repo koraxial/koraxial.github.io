@@ -3,23 +3,6 @@ layout: default
 title: Home
 ---
 
- <div class="project">
-  <p><strong>Danger!</strong> Some text...</p>
-</div> 
-
- <div class="note">
-  <p><strong>Danger! </strong> Some text...</p>
-</div> 
-
- <div class="warning">
-  <p><strong>Danger!</strong> Some text...</p>
-</div> 
-
- <div class="disaster">
-  <p><strong>Danger!</strong> Some text...</p>
-</div> 
-
-
 ## About Me
 Hello everyone, I am korax. I am a Computer Science Student and I aspire to be a software developer someday. 
 I have a <a href="https://www.youtube.com/@_korax_">YouTube Channel</a> where I share tips on various technical topics, showcase new products and software I come across, talk about my experiences with tech and play games too (soon :P).
