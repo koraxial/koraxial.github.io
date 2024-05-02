@@ -8,7 +8,7 @@ title: Home
 </div> 
 
  <div class="note">
-  <p><strong>Danger!</strong> Some text...</p>
+  <p><strong>Danger! </strong> Some text...</p>
 </div> 
 
  <div class="warning">
