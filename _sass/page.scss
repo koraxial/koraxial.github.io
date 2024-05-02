@@ -37,6 +37,26 @@ header h1, h5 {
 
 /* 04 Color and contrast */
 
+.projects {
+  background-color: #291111;
+  border-left: 0px solid #000000;
+}
+
+.notes {
+  background-color: #280004;
+  border-left: 6px solid #ce804d;
+}
+
+.warnings {
+  background-color: #7b5c00;
+  border-left: 6px solid #604800;
+}
+
+.disaster {
+  background-color: #ffdddd;
+  border-left: 6px solid #2d0000;
+}
+
 body {
   color: #ac7e7b;
   background-color: #212121;
