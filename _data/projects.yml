@@ -1,0 +1,4 @@
+- name: LibStruct
+  type: General-Utility
+  description: A Library Management System written in Python
+  link: https://github.com/koraxial/LibStruct
