@@ -1,4 +1,8 @@
 - name: LibStruct
-  type: General-Utility
+  target: General-Utility
   description: A Library Management System written in Python
   link: https://github.com/koraxial/LibStruct
+- name: Xbox-2-PlayStation-Emulator
+  target: PlayStation-2
+  description: Original Xbox Emulator for The Sony PlayStation 2
+  link: https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa
