@@ -50,5 +50,5 @@ In case of any errors or compatibility issues try the following:
 2. Check MySQL table structure. 
 3. Check connectivity of program with database.
 
-<a href="https://koraxial.github.io/libstruct/2024/05/01/About.html"><-- About & Features</a>
+<a href="https://koraxial.github.io/libstruct/2024/05/06/About.html"><-- About & Features</a>
 <h2 align="center">..........</h2>
