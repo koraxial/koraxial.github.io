@@ -38,7 +38,7 @@ autopages:
     silent: false
 
 # Exclusions
-exclude: [ 'README.md', 'COPYING' ]
+exclude: [ 'README.md', 'LICENSE', 'archive/ARCHIVES' ]
 
 # Plugins
 plugins:
