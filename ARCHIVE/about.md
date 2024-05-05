@@ -1,0 +1,1 @@
+## This folder has posts and other material that has outdated information for <a href="">ARCHIVAL PURPOSES ONLY</a>! Do not use, quote or cite any information from ANYTHING within this folder unless relevant. All material here is for personal referencing ONLY. 
