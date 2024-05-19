@@ -1,7 +1,7 @@
 - name: Home
   link: https://koraxial.github.io/
 - name: Posts
-  link: /grouped
+  link: /posts
 - name: Socials
   link: /socials
 - name: Projects
