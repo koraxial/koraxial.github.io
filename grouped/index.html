@@ -3,7 +3,7 @@ layout: default
 title: Posts
 ---
 
-<h2>Grouped Posts</h2>
+<h2>Posts</h2>
 {% for category in site.categories %}
 <h3 class="category-header"><b>{{category | first}}</b></h3>
 <h5><i>Total posts in category --> {{category[1] | size}}</i> <a href="/{{category | first | downcase }}/"></a></h5>
