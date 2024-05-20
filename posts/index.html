@@ -7,6 +7,7 @@ title: Posts
 {% for category in site.categories %}
 <h3 class="category-header"><b>{{category | first}}</b></h3>
 <h5><i>Total posts --> {{category[1] | size}}</i> <a href="/{{category | first}}/"></a></h5>
+</br>
 <h5><i>See all posts in category</i> <a href="/{{category | first}}/">&gt;&gt;</a></h5>
 <div class="postbox">
     {% for post in category[1] limit:2 %}
