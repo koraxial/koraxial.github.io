@@ -1,7 +1,99 @@
 /* Error Page CSS */
-.center{text-align:center}
-#space-invaders {
-  margin: 0 auto;
-  display: block;
-  background: white
+
+/* Base */
+html {
+  font-size: 18px;
+}
+
+/* 01 Font family */
+
+body {
+  font-family: "Courier New", "Helvetica", sans-serif;
+}
+
+/* 03 Spacing */
+
+
+.padded {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  line-height: 30px;
+}
+
+.main-content {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  line-height: 30px;
+}
+
+div.main-content h2 {
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+header h1, h5 {
+  display: inline;
+}
+
+/* 04 Color and contrast */
+
+.postbox {
+  background-color: #1d0c0c;
+  border-left: 0px solid #000000;
+}
+
+.project {
+  background-color: #251717;
+  border-left: 0px solid #000000;
+}
+
+.note {
+  background-color: #280004;
+  border-left: 6px solid #ce804d;
+}
+
+.warning {
+  background-color: #7b5c00;
+  border-left: 6px solid #604800;
+}
+
+.disaster {
+  background-color: #400000;
+  border-left: 6px solid #2d0000;
+}
+
+body {
+  color: #ac7e7b;
+  background-color: #212121;
+}
+
+h1,
+h2,
+strong {
+  color: #dcdede;
+}
+
+header h5 {
+  font-weight: lighter;
+}
+
+/* 05 Balance */
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+}
+
+/* 06 Primary color */
+
+a {
+  color: #ce804d;
+}
+
+/* 07 Secondary colors */
+
+h1,
+h2,
+strong {
+  font-weight: 500;
 }
