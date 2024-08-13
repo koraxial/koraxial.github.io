@@ -7,12 +7,12 @@
   background: white
 }
 
-/* Base */
+/* 01 Base */
 html {
   font-size: 18px;
 }
 
-/* 01 Font family */
+/* 02 Font family */
 
 body {
   font-family: "Courier New", "Helvetica", sans-serif;
