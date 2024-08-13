@@ -1,19 +1,19 @@
 # Site Specific Configuration
 name: korax's Website
-description: Website for my shenanigans
+description: Personal website for my shenanigans
 url: koraxial.github.io
 author: korax
 timezone: Asia/Kolkata
 timezone_short: IST
 
 # Keywords
-keywords: ['seo', 'key', 'words']
+keywords: ['koraxial', 'KuRacks', 'korax']
 
 # Analytics (Plausible requires sign-up)
 analytics:
   plausible:
     enabled: false
-    site_fqdn: 'your.site.fqdn'
+    site_fqdn: 'koraxial.github.io'
     script_source: 'https://plausible.io/js/script.js'
 
 # Styling
