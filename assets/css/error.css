@@ -4,7 +4,7 @@
 #space-invaders {
   margin: 0 auto;
   display: block;
-  background: #d9ead3
+  background: #f4cccc
 }
 
 /* 01 Base */
@@ -71,7 +71,7 @@ header h1, h5 {
 
 body {
   color: #ac7e7b;
-  background-image: url('https://wallpaper.forfun.com/fetch/12/1256815e4638ca0f1579f91e88c7838c.jpeg?h=900&r=0.5');
+  background-image: url('https://raw.githubusercontent.com/koraxial/koraxial.github.io/website/assets/images/errorbg.png');
 }
 
 h1,
@@ -92,6 +92,7 @@ code {
 }
 h2 {
   text-align: center;
+  font-weight: 2000;
 }
 h3 {
   text-align: center;
