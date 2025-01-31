@@ -9,3 +9,9 @@
   description: Original Xbox Emulator for The Sony PlayStation 2
   link: https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa
   post: https://www.psx-place.com/threads/opl-theme-x2p-og-xbox-theme-supports-all-opl.43435/
+
+- name: PS2 Wiki
+  target: Web Software
+  description: From Apps to Exploits, Games to Mods, the one website for all things PS2 Homebrew
+  link: https://ps2wiki.github.io
+  post: https://ps2wiki.github.io/about.html
