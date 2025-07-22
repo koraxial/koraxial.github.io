@@ -394,9 +394,9 @@
   window.addEventListener('resize', function() {
     initGameStart();
   });
-  document.getElementById('restart').addEventListener('click', function() {
-    initGameStart();
-  });
+
+  initGameStart();
+  
 
   function initGameStart() {
     if (window.innerWidth > 1200) {
