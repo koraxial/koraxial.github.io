@@ -387,13 +387,16 @@
       loop();
 
     };
-    invaderAsset.src = "";
+    invaderAsset.src = "//stillh.art/project/spaceInvaders/invader.gif";
 
   });
 
   window.addEventListener('resize', function() {
     initGameStart();
-  });  
+  });
+  document.getElementById('restart').addEventListener('click', function() {
+    initGameStart();
+  });
 
   function initGameStart() {
     if (window.innerWidth > 1200) {
