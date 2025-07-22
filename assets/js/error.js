@@ -394,8 +394,11 @@
   window.addEventListener('resize', function() {
     initGameStart();
   });
-  document.getElementById('restart').addEventListener('click', function() {
-    initGameStart();
+
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('restart').addEventListener('click', function() {
+      initGameStart();
+    });
   });
 
   function initGameStart() {
