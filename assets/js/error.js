@@ -393,10 +393,7 @@
 
   window.addEventListener('resize', function() {
     initGameStart();
-  });
-
-  initGameStart();
-  
+  });  
 
   function initGameStart() {
     if (window.innerWidth > 1200) {
